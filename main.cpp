@@ -1,5 +1,4 @@
 // Klein Houmani
-// PID: 2184415
 // Project 2 - Chess Tournament Manager
 
 #include <iostream>
