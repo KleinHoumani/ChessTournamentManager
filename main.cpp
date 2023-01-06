@@ -1,4 +1,3 @@
-// Klein Houmani
 // Project 2 - Chess Tournament Manager
 
 #include <iostream>
